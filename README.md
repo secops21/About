@@ -43,8 +43,8 @@ A **SIEM** is a solution that collects and analyzes security data in real time f
 ---
 
 ## 🔗 Useful Resources
-- 📝 [SOC Framework Explained](https://www.example.com)
-- 🛠️ [SIEM Basics](https://www.example.com)
+- 📝 [SOC Framework Explained]([https://www.example.com](https://www.ncsc.gov.uk/collection/building-a-security-operations-centre)
+- 🛠️ [SIEM Basics](https://logrhythm.com/blog/what-is-siem/)
 - 📊 [Best Practices for SOC and SIEM Integration](https://www.example.com)
 
 ---
